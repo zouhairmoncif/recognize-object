@@ -7,7 +7,15 @@ Simple image classification using **PyTorch** and **ResNet18**.
 ```bash
 pip install torch torchvision pillow
 ```
+# Image Recognition
 
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.14-red)
+![TorchVision](https://img.shields.io/badge/TorchVision-0.29-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![GitHub Stars](https://img.shields.io/github/stars/zouhairmoncif/recognize-object)
+![GitHub Forks](https://img.shields.io/github/forks/zouhairmoncif/recognize-object)
 ## Usage
 
 1. Put your image in the same folder as `recognize.py`.
